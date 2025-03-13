@@ -48,8 +48,11 @@ python train.py
 The training process involves:
 
 • Setting up the models
+
 • Employing Binary Cross Entropy (BCE) loss
+
 • Optimizing with the Adam optimizer 
+
 • Training runs for multiple epochs (default: 3) 
 
 The output directory will store the generated images and trained models (generator.pth, discriminator.pth).
