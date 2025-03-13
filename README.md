@@ -7,12 +7,19 @@ This repository features a Deep Convolutional Generative Adversarial Network (DC
 ## TABLE OF CONTENTS
 
 • Installation
+
 • Dataset
+
 • Model Architecture
+
 • Training
+
 • Fine-Tuning
+
 • Generating Images
+
 • Results
+
 • Acknowledgments
 
 ## INSTALLATION
